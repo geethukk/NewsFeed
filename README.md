@@ -19,8 +19,4 @@ adding support for data payload of FCM.
 — Use your imagination and add features that would make things easier for end-users.
 — Beautify; Comment; Documented code; handle Input Exceptions, Unicode and Null values.
 — Implement a feature to sort and list articles based on old-to-new and new-to-old.
-Submission Guidelines:
-1. Upload the source code to version control of your choice(Github/Bitbucket)
-2. Share the URL of the project on in the same email.
-Note: We are looking for quality above quantity. It is ok if you are only able to develop 7 out of the
-10 features given(say) But whatever you develop should be done properly.
+
