@@ -11,10 +11,10 @@
         <menu>
 
             <item android:id="@+id/action_menu1"
-                android:title="Recent First" />
+                android:title="@string/recent_first" />
 
             <item android:id="@+id/action_menu2"
-                android:title="Older first" />
+                android:title="@string/older_first" />
 
         </menu>
     </item>
