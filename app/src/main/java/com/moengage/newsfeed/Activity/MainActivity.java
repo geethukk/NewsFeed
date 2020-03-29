@@ -82,7 +82,7 @@ public class MainActivity extends AppCompatActivity {
             //register broadcast receiver for internet connection and firebase payload when app is in foreground
             IntentFilter intentFilter = new IntentFilter();
             intentFilter.addAction("android.net.conn.CONNECTIVITY_CHANGE");
-            intentFilter.addAction("msg");
+            intentFilter.addAction(getString(R.string.msg));
             this.registerReceiver(new NetworkChangeReceiver(), intentFilter);
         } catch (Exception e) {
             e.printStackTrace();

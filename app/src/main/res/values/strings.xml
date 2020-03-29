@@ -6,4 +6,5 @@
     <string name="news_placeholder">News</string>
     <string name="msg_token_fmt">message token</string>
     <string name="default_notification_channel_id">1234</string>
+    <string name="msg">msg</string>
 </resources>
