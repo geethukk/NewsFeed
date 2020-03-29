@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "747755578265",
+    "firebase_url": "https://newsfeed-348ad.firebaseio.com",
+    "project_id": "newsfeed-348ad",
+    "storage_bucket": "newsfeed-348ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747755578265:android:1c92a1909e77a417e56908",
+        "android_client_info": {
+          "package_name": "com.moengage.newsfeed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747755578265-u2qjcmn56qmfq4o7ij3rkgq43he1c80a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxsK2F6PphYOTxIOtegY8FhHyFos7HcKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747755578265-u2qjcmn56qmfq4o7ij3rkgq43he1c80a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
